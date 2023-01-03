@@ -12,7 +12,7 @@ export default function App() {
           rel="noopener noreferrer"
           alt="this is some text that is accessible"
         >
-          opened-sourced on github!
+          opened-sourced on github! Check it out!
         </a>
       </footer>
     </div>
