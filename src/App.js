@@ -3,7 +3,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      React Weather App
+      React Weather App Take 2
       <footer>
         This is coded by Kelly Faria and is{" "}
         <a
